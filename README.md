@@ -25,7 +25,9 @@ Which movie genres drive the most revenue?
 **Tools Used**
 
 Postgres – Database management
+
 Postico 2 – Database query tool
+
 Tableau Public – Data visualization
 
 
